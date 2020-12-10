@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96170831614",
+    "firebase_url": "https://dtcloset-f6fb5.firebaseio.com",
+    "project_id": "dtcloset-f6fb5",
+    "storage_bucket": "dtcloset-f6fb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96170831614:android:e6c6eca6f213091a7cbfaf",
+        "android_client_info": {
+          "package_name": "com.DT.closet07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96170831614-mcj3m4jkglq9v8lqtqkl1fj90vfjm19j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DT.closet07",
+            "certificate_hash": "d989e5c083360f93f4ce3cf756fdc4a42e3be73e"
+          }
+        },
+        {
+          "client_id": "96170831614-eh6uln46cjtngbpom2dchkjlc4nrkj33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmNm-9uUaVjO67qU12U4pf177PChu_pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96170831614-eh6uln46cjtngbpom2dchkjlc4nrkj33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
